@@ -1,4 +1,4 @@
-# Jarvisbot
+# jarvis_bot.py
 A chatbot that talks to you about Marvel cuz your friends don't. Nerd. 
 import streamlit as st
 import openai
